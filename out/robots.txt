@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /ai-video-monitoring
+Allow: /ai-video-analytics
+Allow: /fleet-management
+Allow: /fire-detection
+Allow: /cover-alarm-monitoring
+Allow: /enterprise-ai
+Allow: /retail-agriculture-manufacturing
+Allow: /government-solutions
+Allow: /government-smart-cities
+Allow: /vehicle-ai-cctv
+Allow: /bnpl
+Allow: /blog
+Allow: /careers
+Allow: /privacy-policy
+Allow: /terms-of-service
+
+Sitemap: https://example.com/sitemap.xml
